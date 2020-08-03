@@ -1,0 +1,23 @@
+{
+  "name": "new-node",
+  "version": "1.0.0",
+  "description": "making new node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamon562/new-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamon562/new-node/issues"
+  },
+  "homepage": "https://github.com/chamon562/new-node#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
